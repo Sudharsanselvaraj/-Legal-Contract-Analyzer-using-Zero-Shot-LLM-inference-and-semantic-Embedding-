@@ -69,14 +69,3 @@ A smart legal document analyzer that leverages **Zero-Shot Large Language Model 
 - 🤖 Integrate OCR for scanned documents.
 - 🔒 Add explainability using LLM-generated rationale.
 
----
-
-## 💬 Citation
-
-> Developed by Sudharsan S — leveraging open-source NLP and zero-shot LLM inference for legal automation.
-
----
-
-## 🌐 License
-
-This project is open-source and licensed under the MIT License.
